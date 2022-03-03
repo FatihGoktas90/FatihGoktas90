@@ -14,4 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="width:100%;height:0;padding-bottom:59%;position:relative;"><iframe src="https://giphy.com/embed/hVEBWRInEvNOEVS18i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cfdowningtown-welcome-cf-calvary-fellowship-hVEBWRInEvNOEVS18i">via GIPHY</a></p>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GİF</title>
+  </head>
+  <body>
+    <div
+      style="width: 100%; height: 0; padding-bottom: 59%; position: relative"
+    >
+      <iframe
+        src="https://giphy.com/embed/hVEBWRInEvNOEVS18i"
+        width="100%"
+        height="100%"
+        style="position: absolute"
+        frameborder="0"
+        class="giphy-embed"
+        allowfullscreen
+      ></iframe>
+    </div>
+    <p>
+      <a
+        href="https://giphy.com/gifs/cfdowningtown-welcome-cf-calvary-fellowship-hVEBWRInEvNOEVS18i"
+        >via GIPHY</a
+      >
+    </p>
+  </body>
+</html>
