@@ -45,6 +45,10 @@
 <code><img src="https://img.icons8.com/dusk/64/000000/linux.png" height="35rem" alt="linux"/></code>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+### Snake Contribution
+
+![snake gif](https://github.com/FatihGoktas90/FatihGoktas90/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
