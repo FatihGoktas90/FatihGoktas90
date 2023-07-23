@@ -44,6 +44,9 @@
 <code><img height="35rem" alt="scrum" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-scrum-agile-flaticons-lineal-color-flat-icons-7.png"/></code>
 <code><img src="https://img.icons8.com/dusk/64/000000/linux.png" height="35rem" alt="linux"/></code>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://fatihgoktas90.github.io/nettflix/"></a>
+
+
 
 ### Contributions
 
